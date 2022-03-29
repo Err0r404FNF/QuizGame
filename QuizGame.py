@@ -1,5 +1,5 @@
 import time
-b=input("welcome to the sussy quiz, type start to start. (dont use capital letters!)")
+b=input("welcome to my quiz game!, type start to start. (dont use capital letters!)")
 if b=="start":
     a=input("do you like amogus?")
 if a=="yes":
